@@ -8,7 +8,7 @@ pageClass: routes
 
 ### 分类
 
-<Route author="nczitzk" example="/2047" path="/2047/:category?/:sort?" :paramsDesc="['分类，见下表，默认为首页', '排序，见下表，默认为综合']">
+<Route author="nczitzk" example="/2047/" path="/2047/:category?/:sort?" :paramsDesc="['分类，见下表，默认为首页', '排序，见下表，默认为综合']">
 
 分类
 
